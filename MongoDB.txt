@@ -1,0 +1,16 @@
+insert:
+insert_one({'name':'test','roll_no':1})
+insert_many()
+
+read:
+find()
+find_one()
+
+update:
+update_one()
+update_many()
+replace_one()
+
+delete:
+delete_one()
+delete_many()
